@@ -11,7 +11,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 123444 dffg
 aaaaaNJSKAKSLNDKLggg
-<<<<<<< HEAD
 22333
-=======
->>>>>>> feature1
+123
